@@ -1,0 +1,5 @@
+opencv-python-headless
+pytesseract
+Pillow
+pdf2image
+langchain
