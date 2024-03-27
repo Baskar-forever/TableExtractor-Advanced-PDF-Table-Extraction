@@ -3,7 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![license](https://img.shields.io/badge/license-MIT-green.svg)
 
-Transform your PDFs into actionable data with our advanced PDF Table Extractor. Utilizing state-of-the-art OCR and AI techniques, this Python tool effortlessly converts PDF documents into editable text formats, identifies and extracts tables, and integrates with Hugging Face Hub for further text processing.
+Transform your scaned PDFs into actionable data with our advanced PDF Table Extractor. Utilizing state-of-the-art OCR and AI techniques, this Python tool effortlessly converts PDF documents into editable text formats, identifies and extracts tables, and integrates with Hugging Face Hub for further text processing.
 
 ## Table of Contents
 - [Features](#features)
